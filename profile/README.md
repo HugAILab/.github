@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello 👋
+
+Welcome to HugAILab, this is a vibrant team for implementing HugAI frameworks or products for researchers and developers. We wish that our frameworks and products can make you hug for AI.
+
+Best wishes~
+
+Founder: [Jianing Wang](https://github.com/wjn1996)
+
+
 
 <!--
 
