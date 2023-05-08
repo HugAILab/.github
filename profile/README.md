@@ -6,13 +6,15 @@ HugAI Lab is founded by [Jianing Wang](https://github.com/wjn1996) at 2023/04/15
 
 #### Features
 The main products or frameworks are:
-- HugNLP: A unified and comprehensive NLP library. (first released at [https://github.com/wjn1996/HugNLP](https://github.com/wjn1996/HugNLP), will be released in HugAI Lab)
-- HugChat: A simple training pipline for small ChatGPT-like model. (developing)
+- HugNLP: A unified and comprehensive NLP library. (is released at [https://github.com/HugAILab/HugNLP](https://github.com/HugAILab/HugNLP))
+- HugChat: A simple training pipline for small ChatGPT-like model, please see at [https://github.com/HugAILab/HugNLP/tree/main/applications/instruction_prompting/HugChat](https://github.com/HugAILab/HugNLP/tree/main/applications/instruction_prompting/HugChat)
 - HugCode: A specific framework for code language understanding and generation. (developing)
 
 
 #### Join Us
-If you want to participate in HugAI Lab, you can [email me](mailto:hugailab@gmail.com).
+If you want to participate in HugAI Lab, you can:
+- commit a pull-request and issue at [HugNLP](https://github.com/HugAILab/HugNLP).
+- [email me](mailto:hugailab@gmail.com).
 
 <!--
 
